@@ -4,7 +4,7 @@ Este proyecto transforma datos brutos sobre la demografía global de LinkedIn en
 
 ## 📊 Vista Previa del Proyecto
 
-<video src="04_Assets_Style/linkedin.mp4" width="100%" controls></video>
+![Dashboard Demo](04_Assets_Style/linkedin.gif)
 
 🛠️ Tecnologías y Herramientas
 
